@@ -1,0 +1,9 @@
+sounds/*
+node_modules
+extension
+src
+/index.js
+/test.js
+/testfs.js
+commands
+sounds
